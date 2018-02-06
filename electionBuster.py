@@ -19,7 +19,6 @@ import argparse
 import socket
 from datetime import date
 import urllib 
-#import Request, urlopen, URLError, HTTPError
 from multiprocessing import Pool as ThreadPool 
 
 # Program Timer
@@ -959,7 +958,7 @@ totalRuntime = time.time() - start_time, "seconds"
 
 ###### Write final results to logfile ###########
 resultsFile.write("######################################" + "\n")
-resultsFile.write("ElectionBuster v17 Scan Results: " + "\n")
+resultsFile.write("ElectionBuster $Id$ Scan Results: " + "\n")
 resultsFile.write("######################################" + "\n")
 resultsFile.write("INPUTS = " + str(fName) + ", " + str(lName) + ", " + str(year) + ", " + str(electionType) + ", " + str(state) + "\n") 
 resultsFile.write("Total runtime was " + str(totalRuntime) + "\n")
@@ -977,7 +976,7 @@ for url in allURLS:
 	resultsFile.write(str(url) + "\n")				
 ###### Print final results to screen ###########			
 print("###################################### " + "\n")
-print("ElectionBuster v17 Scan Results: " + "\n")
+print("ElectionBuster $Id$ Scan Results: " + "\n")
 print("###################################### " + "\n")
 print("INPUTS" + "\n")
 print("First name: " + fName + "\n")
