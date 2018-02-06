@@ -36,10 +36,10 @@ Stephen,JamesSchrader,2020,Senate,CA,Stephen-JamesSchrader-CA
 Ling,LingShi,2020,Senate,CA,Ling-LingShi-CA
 Steve,Stokes,2020,Senate,CA,Steve-Stokes-CA
 Michael,Ziesing,2020,Senate,CA,Michael-Ziesing-CA
-Ann-Marie,Adams,2020,Senate,CN,Ann-Marie-Adams-CN
-Matthew,Corey,2020,Senate,CN,Matthew-Corey-CN
-Chris,Murphy,2020,Senate,CN,Chris-Murphy-CN
-Dominic,Rapini,2020,Senate,CN,Dominic-Rapini-CN
+Ann-Marie,Adams,2020,Senate,CN,Ann-Marie-Adams-CT
+Matthew,Corey,2020,Senate,CN,Matthew-Corey-CT
+Chris,Murphy,2020,Senate,CN,Chris-Murphy-CT
+Dominic,Rapini,2020,Senate,CN,Dominic-Rapini-CT
 Chuck,Boyce,2020,Senate,DE,Chuck-Boyce-DE
 Tom,Carper,2020,Senate,DE,Tom-Carper-DE
 Joe,Allen,2020,Senate,FL,Joe-Allen-FL
